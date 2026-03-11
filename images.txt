@@ -1,1 +1,1 @@
-image: prom/node-exporter:v1.9.1
+registry.cn-shanghai.aliyuncs.com/image_lqkhn/pause:3.6
