@@ -1,2 +1,1 @@
-
-image: cloveropen/prometheus-adapter:v0.10.0
+nginx
