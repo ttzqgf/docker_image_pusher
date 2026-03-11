@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/busybox-curl:latest
+prom/node-exporter:v1.9.1
