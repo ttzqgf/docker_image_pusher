@@ -1,1 +1,1 @@
-nginx:latest
+sha256:3a72ab2113b52f58ec76d02a4e30e07d80b4897a639e7cece9399b45fe72bfc0
